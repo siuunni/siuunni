@@ -95,7 +95,7 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact </h2>
   <p>
-    <a href="https://sieun1204.tistory.com/">
+    <a href="https://siuni.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
     </a>
     <a href="mailto:white1204@inha.edu">
