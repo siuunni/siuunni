@@ -98,7 +98,7 @@
     <a href="https://siuni.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
     </a>
-    <a href="mailto:white1204@inha.edu">
+    <a href="mailto:white9812@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
     </a>
   </p>
