@@ -66,6 +66,11 @@
       <td style="padding:6px;">언어 정보 기반 이미지 색채화(대학원생 부분 3등)</td>
       <td style="padding:6px;">2025</td>
     </tr>
+     <tr>
+      <td style="padding:6px; vertical-align:top;"><b>🏆 2025 데이터 문제해결은행 활용 경진대회</b></td>
+      <td style="padding:6px;">배터리 셀 모듈단위 이상탐지(데이터 레시피 부분 최우수상(2등))</td>
+      <td style="padding:6px;">2025</td>
+    </tr>
   </table>
 </div>
 <div align="left">
