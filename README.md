@@ -100,8 +100,8 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact </h2>
   <p>
-    <a href="https://siuni.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
+    <a href="https://siuunni.github.io/">
+      
     </a>
     <a href="mailto:white9812@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
