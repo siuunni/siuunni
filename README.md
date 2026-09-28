@@ -101,8 +101,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact </h2>
   <p>
     <a href="https://siuunni.github.io/">
-      
-    </a>
     <a href="mailto:white9812@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
     </a>
